@@ -94,10 +94,11 @@ body {
 
 .header-bar {
   display: block;
-  padding: 5px 10px;
+  padding: 5px 20px;
   color: #fff;
   text-align: left;
   background-color: #848482;
+  border-radius: 10px;
 }
 
 .header-bar .address {
